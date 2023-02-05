@@ -1,4 +1,4 @@
-#### Luca  [leetcode](https://leetcode-cn.com/u/luca-i/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+#### Luca  [leetcode](https://leetcode-cn.com/u/luca-i/)  
 
 * Problems solved: 123
 * Easy: 100
